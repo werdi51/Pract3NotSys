@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\anton\\OneDrive\\Desktop\\Sys\\TestProject1\\",
+  "WorkspaceRootPath": "C:\\Users\\anton\\OneDrive\\Desktop\\NeNeSys\\Pract3NotSys\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0F7B9569-9124-40E9-ADFF-B5F5F7E3594B}|TestProject1.csproj|c:\\users\\anton\\onedrive\\desktop\\sys\\testproject1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F7B9569-9124-40E9-ADFF-B5F5F7E3594B}|TestProject1.csproj|solutionrelative:class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{68C73127-F2BF-5424-83B5-E8A85B1DFAA1}|TestProject1.csproj|c:\\users\\anton\\onedrive\\desktop\\nenesys\\pract3notsys\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68C73127-F2BF-5424-83B5-E8A85B1DFAA1}|TestProject1.csproj|solutionrelative:class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,11 +28,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\anton\\OneDrive\\Desktop\\Sys\\TestProject1\\Class1.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\OneDrive\\Desktop\\NeNeSys\\Pract3NotSys\\Class1.cs",
               "RelativeDocumentMoniker": "Class1.cs",
-              "ToolTip": "C:\\Users\\anton\\OneDrive\\Desktop\\Sys\\TestProject1\\Class1.cs",
-              "RelativeToolTip": "Class1.cs",
-              "ViewState": "AgIAAKQAAAAAAAAAAAAAwBAAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\anton\\OneDrive\\Desktop\\NeNeSys\\Pract3NotSys\\Class1.cs*",
+              "RelativeToolTip": "Class1.cs*",
+              "ViewState": "AgIAAC0CAAAAAAAAAAAUwEQCAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-24T17:08:50.016Z",
               "EditorCaption": ""

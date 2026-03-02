@@ -514,7 +514,7 @@ namespace TestProject1
         {
             var TotalPrice = new TicketRequest
             {
-                Age = 70,
+                Age = 120,
                 IsStudent = false,
                 IsVip = false,
                 Day = DayOfWeek.Friday,
